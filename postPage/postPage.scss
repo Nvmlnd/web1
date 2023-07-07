@@ -1,0 +1,34 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+
+  .post {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+     
+    h2 {
+      margin-top: 0;
+    }
+  }
+
+ 
+
+  .post p {
+    margin-bottom: 10px;
+  }
+
+  .comment {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+  }
+
+  .comment p {
+    margin-bottom: 5px;
+  }

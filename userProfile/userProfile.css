@@ -1,0 +1,27 @@
+.user-profile {
+  border: 1px solid #ccc;
+  padding: 20px;
+  width: 300px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+}
+
+.user-profile h1 {
+  font-size: 20px;
+  margin-top: 0;
+}
+
+.user-profile .field {
+  margin-bottom: 10px;
+}
+
+.user-profile label {
+  font-weight: bold;
+}
+
+.user-profile .field label,
+.user-profile .field span {
+  display: block;
+}
+
+/*# sourceMappingURL=userProfile.css.map */
